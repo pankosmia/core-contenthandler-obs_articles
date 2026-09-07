@@ -1,5 +1,5 @@
 {
-  "id": "core-contenthandler_obs_articles",
+  "id": "core-contenthandler-obs_articles",
   "exclude_from_menu": true,
   "exclude_from_dashboard": true,
   "minServerVersion": "0.12.14",
@@ -10,10 +10,10 @@
 
   "i18n": {
     "title": {
-      "en": "core-contenthandler_obs_articles"
+      "en": "core-contenthandler-obs_articles"
     },
     "summary": {
-      "en": "core-contenthandler_obs_articles"
+      "en": "core-contenthandler-obs_articles"
     },
     "stub_content": {
       "en": "Content goes here"

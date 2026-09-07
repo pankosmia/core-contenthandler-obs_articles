@@ -1,8 +1,8 @@
 {
-  "name": "core-contenthandler_obs_articles",
+  "name": "core-contenthandler-obs_articles",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/clients/core-contenthandler_obs_articles",
+  "homepage": "/clients/core-contenthandler-obs_articles",
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",

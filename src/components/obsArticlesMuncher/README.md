@@ -4,7 +4,7 @@
 
 This package contains a set of focused UI tools that can be integrated into Pankosmia clients when OBS (Open Bible Stories) editing or visualization capabilities are needed.
 
-> **Note:** This package does not contain everything available inside `pankosmia/core-contenthandler_obs_articles`. It only exposes reusable components that may or may not be used by other Pankosmia clients.
+> **Note:** This package does not contain everything available inside `pankosmia/core-contenthandler-obs_articles`. It only exposes reusable components that may or may not be used by other Pankosmia clients.
 
 ## Component
 
