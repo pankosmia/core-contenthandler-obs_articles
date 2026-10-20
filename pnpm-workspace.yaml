@@ -2,3 +2,13 @@ allowBuilds:
   core-js: false
   core-js-pure: false
   esbuild: false
+
+supportedArchitectures:
+  os:
+    - win32
+    - linux
+    - darwin
+    - current
+  cpu:
+    - x64
+    - arm64
