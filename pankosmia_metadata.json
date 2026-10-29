@@ -1,8 +1,6 @@
 {
   "id": "core-contenthandler-obs_articles",
-  "exclude_from_menu": true,
-  "exclude_from_dashboard": true,
-  "minServerVersion": "0.12.14",
+  "minServerVersion": "0.20.3",
   "require": {
     "net": false,
     "debug": true
@@ -17,6 +15,9 @@
     },
     "stub_content": {
       "en": "Content goes here"
+    },
+    "titleMuncherTest": {
+      "en": "Flavor x-obsarticles"
     },
     "new_obs_content": {
       "en": "Create Open Bible Stories",
