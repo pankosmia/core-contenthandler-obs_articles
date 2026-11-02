@@ -5,7 +5,9 @@
     "net": false,
     "debug": true
   },
-
+  "endpoints": {
+    "x-obsarticles": {}
+  },
   "i18n": {
     "title": {
       "en": "core-contenthandler-obs_articles"
